@@ -3,13 +3,17 @@ body {
   /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/lion.jpg") no-repeat center fixed; */
 
-  background: url("../images/lion.jpg")
-   no-repeat  center center fixed;
-   background-size: cover;
-   color: #f7f7f7;
-  margin-top: 20%;
+  background: url("../images/lion.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 
 h1 {
+  color: bisque;
   text-align: center;
+  border: 3px solid #ff0000;
+
+  width: 300px;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 300px;
 }
